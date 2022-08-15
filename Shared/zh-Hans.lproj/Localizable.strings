@@ -1,0 +1,75 @@
+/* 
+  Localizable.strings
+  XWeather
+
+  Created by teenloong on 2022/4/30.
+  Copyright © 2022 com.teenloong. All rights reserved.
+*/
+//Common
+"Default" = "Default";
+"Unknown" = "Unknown";
+
+//Common Action
+"Cancel" = "取消";
+"Close" = "关闭";
+"Delete" = "删除";
+"Done" = "完成";
+"Get" = "获取";
+"Next" = "下一步";
+"OK" = "好的";
+"Save" = "保存";
+"Select All" = "全选";
+"Select Photo" = "选择照片";
+"Skip" = "跳过";
+"Sure" = "确定";
+
+//Authorization
+"Go to Authorization" = "转到授权";
+"Location Permissions" = "定位权限";
+"Location Authorization Desc" = "需要打开位置权限以使用当前位置";
+"PhotoLibrary Permissions" = "相册权限";
+"PhotoLibrary Authorization Desc" = "需要打开相册权限来查看和保存图片";
+"Camera Permissions" = "相机权限";
+"Camera Authorization Desc" = "要打开相机权限才能使用相关功能";
+
+//Weather Type
+"Clear" = "晴";                          //晴
+"Couldy" = "多云";                        //多云
+"Overcast" = "阴";                       //阴
+"Rain showers" = "阵雨";                  //阵雨
+"Drizzle" = "小雨";                       //小雨
+"Rain" = "中雨";                          //中雨
+"Heavy rain" = "大雨";                    //大雨
+"Torrential rain" = "暴雨";               //暴雨
+"Light snow" = "小雪";                    //小雪
+"Snow" = "中雪";                          //中雪
+"Heavy snow" = "大雪";                    //大雪
+"Blizzards" = "暴雪";                     //暴雪
+"Sleet" = "雨夹雪";                        //雨夹雪
+"Hail" = "冰雹";                          //冰雹
+"Thunderbolt" = "雷电";                   //雷电
+"Thundershowers" = "雷阵雨";               //雷阵雨
+"Fog" = "雾";                            //雾
+"Dust" = "尘";                           //尘
+"Windy" = "风";                          //风
+"Tornado" = "龙卷风";                      //龙卷风
+"Tropicalstorm" = "热带风暴";               //热带风暴
+"Hurricane" = "飓风";                     //飓风
+
+"Air Quality %@" = "空气质量 %@";
+"AQI_Excellent" = "优";
+"AQI_Good" = "良";
+"AQI_Mild" = "轻度";
+"AQI_Moderate" = "中度";
+"AQI_Severe" = "重度";
+"AQI_Serious" = "严重";
+
+"Updated on %@" = "更新于 %@";
+
+"Now" = "现在";
+"%@ hours forecast" = "%@小时预报";
+"%@ days forecast" = "%@日预报";
+
+"Enter the name of the city" = "输入城市名称";
+"My location" = "我的位置";
+"Your location" = "您的位置";

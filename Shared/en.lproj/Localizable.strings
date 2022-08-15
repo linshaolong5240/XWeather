@@ -1,0 +1,75 @@
+/* 
+  Localizable.strings
+  XWeather
+
+  Created by teenloong on 2022/4/30.
+  Copyright © 2022 com.teenloong. All rights reserved.
+*/
+//Common
+"Default" = "Default";
+"Unknown" = "Unknown";
+
+//Common Action
+"Cancel" = "Cancel";
+"Close" = "Close";
+"Delete" = "Delete";
+"Done" = "Done";
+"Get" = "Get";
+"Next" = "Next";
+"OK" = "OK";
+"Save" = "Save";
+"Select All" = "Select All";
+"Select Photo" = "Select Photo";
+"Skip" = "Skip";
+"Sure" = "Sure";
+
+//Authorization
+"Go to Authorization" = "Authorize";
+"Location Permissions" = "Location Permissions";
+"Location Authorization Desc" = "Need to open location permission to use current location";
+"PhotoLibrary Permissions" = "Album permissions";
+"PhotoLibrary Authorization Desc" = "Need to open album permissions to view and save images";
+"Camera Permissions" = "Camera permissions";
+"Camera Authorization Desc" = "Need to open camera permission to use related functions";
+
+//Weather Type
+"Clear" = "Clear";                          //晴
+"Couldy" = "Couldy";                        //多云
+"Overcast" = "Overcast";                    //阴
+"Rain showers" = "Rain showers";            //阵雨
+"Drizzle" = "Drizzle";                      //小雨
+"Rain" = "Rain";                            //中雨
+"Heavy rain" = "Heavy rain";                //大雨
+"Torrential rain" = "Torrential rain";      //暴雨
+"Light snow" = "Light snow";                //小雪
+"Snow" = "Snow";                            //中雪
+"Heavy snow" = "Heavy snow";                //大雪
+"Blizzards" = "Blizzards";                  //暴雪
+"Sleet" = "Sleet";                          //雨夹雪
+"Hail" = "Hail";                            //冰雹
+"Thunderbolt" = "Thunderbolt";              //雷电
+"Thundershowers" = "Thundershowers";        //雷阵雨
+"Fog" = "Fog";                              //雾
+"Dust" = "Dust";                            //尘
+"Windy" = "Windy";                          //风
+"Tornado" = "Tornado";                      //龙卷风
+"Tropicalstorm" = "Tropicalstorm";          //热带风暴
+"Hurricane" = "Hurricane";                  //飓风
+
+"Air Quality %@" = "Air Quality %@";
+"AQI_Excellent" = "Excellent";
+"AQI_Good" = "Good";
+"AQI_Mild" = "Mild";
+"AQI_Moderate" = "Moderate";
+"AQI_Severe" = "Severe";
+"AQI_Serious" = "Serious";
+
+"Updated on %@" = "Updated on %@";
+
+"Now" = "Now";
+"%@ hours forecast" = "%@ hours forecast";
+"%@ days forecast" = "%@ days forecast";
+
+"Enter the name of the city" = "Enter the name of the city";
+"My location" = "My location";
+"Your location" = "Your location";
